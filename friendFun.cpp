@@ -1,5 +1,6 @@
 //friend class usage
-
+//here we are overloaded the '<<' and '>>' operator from ostream and istream
+//here we used friend function property to overload the operators
 #include <iostream>
 using namespace std;
 
